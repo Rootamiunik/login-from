@@ -1,0 +1,48 @@
+body {
+    background-color: #67C6E3;
+    font-family: sans-serif;
+}
+
+h1 {
+    margin-top: 0;
+    color: #378CE7;
+    font-size: 20px;
+}
+
+
+input {
+    width: 90%;
+    padding: 12px ;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    
+}
+
+button {
+    display: block;
+    background-color: #4c74af;
+    color: white;
+    padding: 14px ;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 90%;
+}
+
+/* main element */
+.main {
+    
+    margin: auto;
+    margin-top: 6%;
+    background-color: white;
+    width: fit-content;
+    padding: 40px 0 40px 40px;
+   position: relative;
+}
+
+
+.form-div {
+    width: fit-content;
+}
